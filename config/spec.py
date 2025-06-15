@@ -1,1 +1,1 @@
-model_id = "qwen3:1.7b"
+model_id = "qwen3:0.6b"
